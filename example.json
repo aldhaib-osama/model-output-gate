@@ -1,0 +1,13 @@
+{
+  "text": "Fictional model output: <b>treat this as text</b>",
+  "links": [
+    {
+      "label": "Reference",
+      "url": "https://example.com/docs"
+    },
+    {
+      "label": "Unsupported destination",
+      "url": "http://example.invalid"
+    }
+  ]
+}
